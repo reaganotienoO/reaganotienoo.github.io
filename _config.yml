@@ -16,9 +16,10 @@ timezone:
 
 title: Chirpy # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Data Analyst | Transforming complex data into actionable insights | Passionate about driving business decisions with data # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: > I’m a detail-oriented Data Analyst with a strong background in statistical analysis, data visualization, and data management. With hands-on experience in tools like Python, R, SQL, Excel, and Power BI, I specialize in turning raw data into insightful stories that help drive business strategy. My passion lies in optimizing data workflows and creating interactive dashboards that improve decision-making efficiency.
+ # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
